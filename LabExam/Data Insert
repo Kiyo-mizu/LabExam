@@ -1,1 +1,20 @@
+INSERT INTO StudentRecordTB (
+    studentId, firstName, lastName, middleName, houseNo, brgyName, municipality, province, region, 
+    country, birthdate, age, studContactNo, emailAddress, guardianFirstName, guardianLastName, 
+    hobbies, nickname, courseId, yearId
+) VALUES 
+(1, 'John', 'Doe', 'Michael', 123, 'Brgy 1', 'Manila', 'Metro Manila', 'NCR', 'Philippines', 
+ '2001-05-15', 23, '09123456789', 'john.doe@email.com', 'Robert', 'Doe', 'Reading, Gaming', 'Johnny', 1, 1),
+
+(2, 'Jane', 'Smith', 'Anne', 456, 'Brgy 2', 'Quezon City', 'Metro Manila', 'NCR', 'Philippines', 
+ '2002-08-22', 22, '09987654321', 'jane.smith@email.com', 'Maria', 'Smith', 'Cooking, Singing', 'Janey', 2, 2),
+
+(3, 'Mark', 'Johnson', 'David', 789, 'Brgy 3', 'Cebu City', 'Cebu', 'Region VII', 'Philippines', 
+ '2000-12-10', 24, '09234567890', 'mark.johnson@email.com', 'Paul', 'Johnson', 'Basketball, Coding', 'Marky', 3, 3),
+
+(4, 'Emily', 'Williams', 'Grace', 101, 'Brgy 4', 'Davao City', 'Davao del Sur', 'Region XI', 'Philippines', 
+ '2003-03-05', 21, '09765432109', 'emily.williams@email.com', 'Sarah', 'Williams', 'Dancing, Painting', 'Em', 4, 1),
+
+(5, 'Michael', 'Brown', 'James', 222, 'Brgy 5', 'Baguio City', 'Benguet', 'CAR', 'Philippines', 
+ '2001-11-30', 23, '09345678901', 'michael.brown@email.com', 'David', 'Brown', 'Photography, Hiking', 'Mike', 5, 2);
 
