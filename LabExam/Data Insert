@@ -16,5 +16,5 @@ INSERT INTO StudentRecordTB (
  '2003-03-05', 21, '09765432109', 'emily.williams@email.com', 'Sarah', 'Williams', 'Dancing, Painting', 'Em', 4, 1),
 
 (5, 'Michael', 'Brown', 'James', 222, 'Brgy 5', 'Baguio City', 'Benguet', 'CAR', 'Philippines', 
- '2001-11-30', 23, '09345678901', 'michael.brown@email.com', 'David', 'Brown', 'Photography, Hiking', 'Mike', 5, 2);
+ '2001-11-30', 23, '09345678901', 'michael.brown@email.com', 'David', 'Brown', 'Photography, Hiking', 'Mike', 4, 2);
 
